@@ -1,0 +1,41 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "year": 1851
+        },
+        {
+            "id": 2,
+            "title": "The Pickwick Papers",
+            "author": "Charles Dickens",
+            "year": 1836
+        },
+        {
+            "id": 3,
+            "title": "Dracula",
+            "author": "Brahm Stoker",
+            "year": 1897
+        },
+        {
+            "id": 4,
+            "title": "Don Quixote",
+            "author": "Miquel Cervantes",
+            "year": 1605
+        },
+        {
+            "id": 5,
+            "title": "Ulysses",
+            "author": "James Joyce",
+            "year": 1920
+        },
+        {
+            "id": 6,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoyevsky",
+            "year": 1866
+        }
+]
+
+}
